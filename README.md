@@ -1,3 +1,2 @@
 # sd1b
-eerste repository
-hello you test 2
+## Repository voor de Hello-You opdracht
